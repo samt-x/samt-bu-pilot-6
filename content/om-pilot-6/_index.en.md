@@ -4,6 +4,8 @@ id: 37cab3af-72bf-4dc1-9dd6-c63aac96a862
 title: "About pilot 6"
 linkTitle: "About pilot 6"
 weight: 10
+lastmod: 2026-10-10T14:41:03+02:00
+last_editor: Erik Hagen
 
 ---
 ## INTRODUCTION
