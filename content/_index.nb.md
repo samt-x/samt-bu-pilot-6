@@ -1,4 +1,5 @@
 ---
+id: 13250edb-9063-41cb-82a8-9c91a42060ed
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 title: Pilot 6 - Foreldres tilgang til data
 weight: 60
