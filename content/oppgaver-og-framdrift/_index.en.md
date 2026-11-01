@@ -3,6 +3,9 @@ id: 607382e0-f3c0-40a1-92e6-00404b58ceb7
 title: "Tasks and progress"
 linkTitle: "Tasks and progress"
 weight: 90
+lastmod: 2026-11-02T00:12:45+01:00
+last_editor: Erik Hagen
+
 ---
 
 The tasks of pilot 6 are issues in [samt-bu-pilot-6](https://github.com/samt-x/samt-bu-pilot-6/issues) and on the board [SAMT-BU Pilot 6 – Foreldres tilgang til data](https://github.com/orgs/samt-x/projects/10) (Project 10). This page shows where the work stands.
