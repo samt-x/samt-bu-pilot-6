@@ -7,7 +7,7 @@ lastmod: 2026-10-10T14:41:03+02:00
 last_editor: Erik Hagen
 
 ---
-## INNLEDNING
+## INNLEDNING.
 
 Dette er en beskrivelse av plan for gjennomføring av pilot 6 – Foreldres tilgang til data. Selv om planen beskriver gjennomføringen som en fasedreven prosess, forutsettes det at vi arbeider iterativt, der enkelte faser gjentas ved behov.
 
