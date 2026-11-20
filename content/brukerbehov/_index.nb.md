@@ -3,6 +3,9 @@ id: 9eb621a5-69b3-4ef8-a439-a58820632cf1
 title: "Brukerbehov"
 linkTitle: "Brukerbehov"
 weight: 20
+lastmod: 2026-11-20T22:36:53+01:00
+last_editor: Erik Hagen
+
 ---
 
 {{< i-arbeid >}}
