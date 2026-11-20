@@ -3,7 +3,7 @@ id: 9df441eb-96d2-49d3-a015-8103b279a237
 title: "Aktører og informasjonsflyt"
 linkTitle: "Aktører og informasjonsflyt"
 weight: 50
-lastmod: 2026-11-21T00:22:24+01:00
+lastmod: 2026-11-21T00:25:33+01:00
 last_editor: Erik Hagen
 
 ---

@@ -3,7 +3,7 @@ id: 8fafa26e-bc88-4098-954e-afc89edd9151
 title: "Valgt løsning nå"
 linkTitle: "Valgt løsning nå"
 weight: 30
-lastmod: 2026-11-21T00:22:24+01:00
+lastmod: 2026-11-21T00:25:33+01:00
 last_editor: Erik Hagen
 
 ---
