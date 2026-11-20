@@ -2,7 +2,7 @@
 id: 607382e0-f3c0-40a1-92e6-00404b58ceb7
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
-weight: 90
+weight: 15
 lastmod: 2026-11-02T00:12:45+01:00
 last_editor: Erik Hagen
 
