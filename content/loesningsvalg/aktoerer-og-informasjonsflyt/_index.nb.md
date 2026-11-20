@@ -2,7 +2,9 @@
 id: 9df441eb-96d2-49d3-a015-8103b279a237
 title: "Aktører og informasjonsflyt"
 linkTitle: "Aktører og informasjonsflyt"
-weight: 30
+weight: 50
+aliases:
+  - /pilotering/pilot-6/aktoerer-og-informasjonsflyt/
 lastmod: 2026-11-20T23:10:23+01:00
 last_editor: Erik Hagen
 
@@ -10,9 +12,9 @@ last_editor: Erik Hagen
 
 {{< i-arbeid >}}
 
-Hvem som er involvert, hvor de aktuelle dataene ligger, og hvordan informasjonen flyter mellom aktørene i dag (AS-IS): foresatte, skoler og kommuner, Udir, systemleverandører og andre kilder.
+Hvem som er involvert, og hvordan informasjonen flyter mellom aktørene i den valgte løsningen: foresatte, kanalene, fellesløsningene i Altinn og datakildene. Flyten i dag står under [Nåsituasjon](/pilotering/pilot-6/naasituasjon/aktoerer-og-informasjonsflyt/), og den ønskede under [Målbilde](/pilotering/pilot-6/maalbilde/aktoerer-og-informasjonsflyt/).
 
-Løsningskonseptet (se [Detaljering av valgt løsning](/pilotering/pilot-6/detaljering-av-valgt-loesning/)) har to flyter: henting ved behov og hendelsesstyrt henting.
+Løsningskonseptet (se [Valgt løsning nå](/pilotering/pilot-6/loesningsvalg/valgt-loesning-naa/)) har to flyter: henting ved behov og hendelsesstyrt henting.
 
 ## Flyt A: henting ved behov
 

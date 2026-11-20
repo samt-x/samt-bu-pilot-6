@@ -1,8 +1,10 @@
 ---
 id: 8fafa26e-bc88-4098-954e-afc89edd9151
-title: "Details of the chosen solution"
-linkTitle: "Details of the chosen solution"
-weight: 50
+title: "Chosen solution now"
+linkTitle: "Chosen solution now"
+weight: 30
+aliases:
+  - /pilotering/pilot-6/detaljering-av-valgt-loesning/
 lastmod: 2026-11-20T23:10:23+01:00
 last_editor: Erik Hagen
 
@@ -10,7 +12,7 @@ last_editor: Erik Hagen
 
 {{< i-arbeid >}}
 
-The chosen solution described in more detail: architecture, components, data sources and information models, and how the data is retrieved from several sources.
+The solution chosen for now, described in more detail: architecture, components, data sources and information models, and how the data is retrieved from several sources. How the solution can be developed further is described under [Roadmap](/en/pilotering/pilot-6/loesningsvalg/veikart/).
 
 ## The solution concept
 
@@ -22,7 +24,7 @@ The solution concept shows pilot 6 in the same layers as the SAMT-BU concept, re
 - **The SAMT-BU middle layer** has three parts:
   - trust: ID-porten, Maskinporten, the Population Register and Altinn Authorization
   - brokering, events and dialogue: data.altinn.no with a dedicated service for parental access, Altinn Events for events and Dialogporten for dialogues and notifications in the Altinn workspace
-  - semantics: a common information model, where it is open where the transformation happens (see [Choice of solution](/en/pilotering/pilot-6/loesningsvalg/))
+  - semantics: a common information model, where it is open where the transformation happens (see [Alternative solutions](/en/pilotering/pilot-6/loesningsvalg/alternative-loesninger/))
 - **Channels:** the consumers that build the end-user service – Min Kommune, the vendors' apps and Altinn, where an Altinn app built in Altinn Studio is used in the Altinn workspace.
 
 data.altinn.no retrieves from the sources and offers one API to all the channels, so that no channel integrates directly with the sources. The rulebook applies to the whole chain.
@@ -44,7 +46,7 @@ Source: [docs.data.altinn.no](https://docs.data.altinn.no/).
 
 Dialogporten is a common Altinn solution that lets services show dialogues in the Altinn workspace, including services that are not Altinn apps. Min Kommune, the vendors' apps and a possible Altinn app can all create dialogues, and parents get one combined inbox across the channels. The channels keep their own solution for the full overview over time, and the dialogue links there.
 
-Dialogporten fits with flow B (see [Actors and information flow](/en/pilotering/pilot-6/aktoerer-og-informasjonsflyt/)): when a channel has retrieved new data via data.altinn.no, it can create or update a dialogue. Three common solutions thus get three clear roles: data.altinn.no for data, Altinn Events for events and Dialogporten for dialogue and notification.
+Dialogporten fits with flow B (see [Actors and information flow](/en/pilotering/pilot-6/loesningsvalg/aktoerer-og-informasjonsflyt/)): when a channel has retrieved new data via data.altinn.no, it can create or update a dialogue. Three common solutions thus get three clear roles: data.altinn.no for data, Altinn Events for events and Dialogporten for dialogue and notification.
 
 It must be clarified how parents can see dialogues concerning the child, who owns the dialogue when there are several channels, and how duplicate notifications are avoided.
 

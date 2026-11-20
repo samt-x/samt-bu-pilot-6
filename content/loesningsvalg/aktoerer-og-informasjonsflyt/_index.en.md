@@ -2,7 +2,9 @@
 id: 9df441eb-96d2-49d3-a015-8103b279a237
 title: "Actors and information flow"
 linkTitle: "Actors and information flow"
-weight: 30
+weight: 50
+aliases:
+  - /pilotering/pilot-6/aktoerer-og-informasjonsflyt/
 lastmod: 2026-11-20T23:10:23+01:00
 last_editor: Erik Hagen
 
@@ -10,9 +12,9 @@ last_editor: Erik Hagen
 
 {{< i-arbeid >}}
 
-Who is involved, where the relevant data is held, and how information flows between the actors today (AS-IS): parents and guardians, schools and municipalities, the Norwegian Directorate for Education and Training (Udir), system vendors and other sources.
+Who is involved, and how information flows between the actors in the chosen solution: parents and guardians, the channels, the common Altinn solutions and the data sources. The flow today is described under [Current situation](/en/pilotering/pilot-6/naasituasjon/aktoerer-og-informasjonsflyt/), and the desired flow under [Target picture](/en/pilotering/pilot-6/maalbilde/aktoerer-og-informasjonsflyt/).
 
-The solution concept (see [Details of the chosen solution](/en/pilotering/pilot-6/detaljering-av-valgt-loesning/)) has two flows: retrieval on demand and event-driven retrieval.
+The solution concept (see [Chosen solution now](/en/pilotering/pilot-6/loesningsvalg/valgt-loesning-naa/)) has two flows: retrieval on demand and event-driven retrieval.
 
 ## Flow A: retrieval on demand
 

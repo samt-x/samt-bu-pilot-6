@@ -1,8 +1,10 @@
 ---
 id: 9eb621a5-69b3-4ef8-a439-a58820632cf1
-title: "User needs"
-linkTitle: "User needs"
+title: "Use cases and user needs"
+linkTitle: "Use cases and user needs"
 weight: 20
+aliases:
+  - /pilotering/pilot-6/brukerbehov/
 lastmod: 2026-11-20T23:10:23+01:00
 last_editor: Erik Hagen
 
@@ -10,7 +12,7 @@ last_editor: Erik Hagen
 
 {{< i-arbeid >}}
 
-The needs parents and guardians have for information about the pupil's academic progress, and how they want to access it. The chapter builds on the case description [6. Centralised access to data parents need](/en/behov/use-cases/06-sentralisert-datatilgang/) and on the dream journey, as described in [About pilot 6](/en/pilotering/pilot-6/om-pilot-6/).
+Which use cases the pilot covers, the needs parents and guardians have for information about the pupil's academic progress, and how they want to access it. The needs are broken down into [user stories](/en/pilotering/pilot-6/brukstilfeller-og-brukerbehov/brukerhistorier/). The chapter builds on the case description [6. Centralised access to data parents need](/en/behov/use-cases/06-sentralisert-datatilgang/) and on the dream journey, as described in [About pilot 6](/en/pilotering/pilot-6/om-pilot-6/).
 
 ## The case from the user's side
 

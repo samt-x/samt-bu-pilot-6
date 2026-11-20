@@ -1,8 +1,10 @@
 ---
 id: 9eb621a5-69b3-4ef8-a439-a58820632cf1
-title: "Brukerbehov"
-linkTitle: "Brukerbehov"
+title: "Brukstilfeller og brukerbehov"
+linkTitle: "Brukstilfeller og brukerbehov"
 weight: 20
+aliases:
+  - /pilotering/pilot-6/brukerbehov/
 lastmod: 2026-11-20T23:10:23+01:00
 last_editor: Erik Hagen
 
@@ -10,7 +12,7 @@ last_editor: Erik Hagen
 
 {{< i-arbeid >}}
 
-Hvilke behov foresatte har for informasjon om elevens faglige utvikling, og hvordan de ønsker å få tilgang til den. Kapitlet bygger på casebeskrivelsen [6. Sentralisert tilgang til data foreldrene trenger](/behov/use-cases/06-sentralisert-datatilgang/) og på drømmereisen, som beskrevet i [Om pilot 6](/pilotering/pilot-6/om-pilot-6/).
+Hvilke brukstilfeller piloten dekker, hvilke behov foresatte har for informasjon om elevens faglige utvikling, og hvordan de ønsker å få tilgang til den. Behovene brytes ned i [brukerhistorier](/pilotering/pilot-6/brukstilfeller-og-brukerbehov/brukerhistorier/). Kapitlet bygger på casebeskrivelsen [6. Sentralisert tilgang til data foreldrene trenger](/behov/use-cases/06-sentralisert-datatilgang/) og på drømmereisen, som beskrevet i [Om pilot 6](/pilotering/pilot-6/om-pilot-6/).
 
 ## Caset fra brukerens side
 

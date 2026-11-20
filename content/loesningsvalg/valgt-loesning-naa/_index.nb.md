@@ -1,8 +1,10 @@
 ---
 id: 8fafa26e-bc88-4098-954e-afc89edd9151
-title: "Detaljering av valgt løsning"
-linkTitle: "Detaljering av valgt løsning"
-weight: 50
+title: "Valgt løsning nå"
+linkTitle: "Valgt løsning nå"
+weight: 30
+aliases:
+  - /pilotering/pilot-6/detaljering-av-valgt-loesning/
 lastmod: 2026-11-20T23:10:23+01:00
 last_editor: Erik Hagen
 
@@ -10,7 +12,7 @@ last_editor: Erik Hagen
 
 {{< i-arbeid >}}
 
-Den valgte løsningen beskrevet nærmere: arkitektur, komponenter, datakilder og informasjonsmodeller, og hvordan dataene hentes fra flere kilder.
+Løsningen som er valgt nå, beskrevet nærmere: arkitektur, komponenter, datakilder og informasjonsmodeller, og hvordan dataene hentes fra flere kilder. Hvordan løsningen kan utvikles videre, står under [Veikart](/pilotering/pilot-6/loesningsvalg/veikart/).
 
 ## Løsningskonseptet
 
@@ -22,7 +24,7 @@ Løsningskonseptet viser pilot 6 i de samme lagene som SAMT-BU-konseptet, lest n
 - **SAMT-BU-mellomlaget** har tre deler:
   - tillit: ID-porten, Maskinporten, Folkeregisteret og Altinn Autorisasjon
   - formidling, hendelser og dialog: data.altinn.no med en egen tjeneste for foresattinnsyn, Altinn Events for hendelser og Dialogporten for dialoger og varsler i Altinn arbeidsflate
-  - semantikk: felles informasjonsmodell, der det er åpent hvor transformasjonen skjer (se [Løsningsvalg](/pilotering/pilot-6/loesningsvalg/))
+  - semantikk: felles informasjonsmodell, der det er åpent hvor transformasjonen skjer (se [Alternative løsninger](/pilotering/pilot-6/loesningsvalg/alternative-loesninger/))
 - **Kanaler:** konsumentene som bygger sluttbrukertjenesten – Min Kommune, leverandørenes apper og Altinn, der en Altinn-app bygget i Altinn Studio brukes i Altinn arbeidsflate.
 
 data.altinn.no henter fra kildene og tilbyr ett API til alle kanalene, slik at ingen kanal integrerer direkte mot kildene. Regelboka gjelder hele kjeden.
@@ -44,7 +46,7 @@ Kilde: [docs.data.altinn.no](https://docs.data.altinn.no/).
 
 Dialogporten er en fellesløsning i Altinn som lar tjenester vise dialoger i Altinn arbeidsflate, også tjenester som ikke er Altinn-apper. Min Kommune, leverandørenes apper og en eventuell Altinn-app kan alle opprette dialoger, og foresatte får én samlet innboks på tvers av kanalene. Kanalene beholder sin egen løsning for den fulle oversikten over tid, og dialogen lenker dit.
 
-Dialogporten passer sammen med flyt B (se [Aktører og informasjonsflyt](/pilotering/pilot-6/aktoerer-og-informasjonsflyt/)): når en kanal har hentet nye data via data.altinn.no, kan den opprette eller oppdatere en dialog. Tre fellesløsninger får dermed tre tydelige roller: data.altinn.no for data, Altinn Events for hendelser og Dialogporten for dialog og varsel.
+Dialogporten passer sammen med flyt B (se [Aktører og informasjonsflyt](/pilotering/pilot-6/loesningsvalg/aktoerer-og-informasjonsflyt/)): når en kanal har hentet nye data via data.altinn.no, kan den opprette eller oppdatere en dialog. Tre fellesløsninger får dermed tre tydelige roller: data.altinn.no for data, Altinn Events for hendelser og Dialogporten for dialog og varsel.
 
 Det må avklares hvordan foresatte kan se dialoger som gjelder barnet, hvem som eier dialogen når flere kanaler finnes, og hvordan doble varsler unngås.
 
