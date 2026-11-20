@@ -1,4 +1,5 @@
 ---
+id: 4b2e4ee1-c52a-4706-9580-c8ea3ce82fcc
 title: "Juridiske forhold"
 linkTitle: "Juridiske forhold"
 weight: 60

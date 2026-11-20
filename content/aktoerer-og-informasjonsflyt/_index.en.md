@@ -1,4 +1,5 @@
 ---
+id: 9df441eb-96d2-49d3-a015-8103b279a237
 title: "Actors and information flow"
 linkTitle: "Actors and information flow"
 weight: 30

@@ -1,4 +1,5 @@
 ---
+id: 8fafa26e-bc88-4098-954e-afc89edd9151
 title: "Details of the chosen solution"
 linkTitle: "Details of the chosen solution"
 weight: 50
