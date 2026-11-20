@@ -1,4 +1,5 @@
 ---
+id: 34bd5d8b-c124-43c0-bb51-08ffd6505cf4
 title: "Brukerhistorier"
 linkTitle: "Brukerhistorier"
 weight: 10

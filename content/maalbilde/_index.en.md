@@ -1,4 +1,5 @@
 ---
+id: 208813df-4769-4d33-9731-3ca30c5a1f3f
 title: "Target picture"
 linkTitle: "Target picture"
 weight: 40

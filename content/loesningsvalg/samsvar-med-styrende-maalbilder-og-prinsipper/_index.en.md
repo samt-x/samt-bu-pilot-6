@@ -1,4 +1,5 @@
 ---
+id: c9a56c86-6560-4aaa-8ef5-ae7c1b00df84
 title: "Alignment with governing target pictures and principles"
 linkTitle: "Alignment with target pictures and principles"
 weight: 20

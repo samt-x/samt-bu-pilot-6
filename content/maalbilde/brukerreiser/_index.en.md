@@ -1,4 +1,5 @@
 ---
+id: cedbe4f1-34cc-4238-a418-3494c27a7f66
 title: "User journeys"
 linkTitle: "User journeys"
 weight: 10

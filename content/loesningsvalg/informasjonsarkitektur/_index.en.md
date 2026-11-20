@@ -1,4 +1,5 @@
 ---
+id: 69c8801e-509c-4fb4-afed-241996873ff7
 title: "Information architecture"
 linkTitle: "Information architecture"
 weight: 60
