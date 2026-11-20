@@ -3,8 +3,6 @@ id: 9eb621a5-69b3-4ef8-a439-a58820632cf1
 title: "Use cases and user needs"
 linkTitle: "Use cases and user needs"
 weight: 20
-aliases:
-  - /pilotering/pilot-6/brukerbehov/
 lastmod: 2026-11-21T00:22:24+01:00
 last_editor: Erik Hagen
 

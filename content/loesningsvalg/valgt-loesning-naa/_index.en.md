@@ -3,8 +3,6 @@ id: 8fafa26e-bc88-4098-954e-afc89edd9151
 title: "Chosen solution now"
 linkTitle: "Chosen solution now"
 weight: 30
-aliases:
-  - /pilotering/pilot-6/detaljering-av-valgt-loesning/
 lastmod: 2026-11-21T00:22:24+01:00
 last_editor: Erik Hagen
 
