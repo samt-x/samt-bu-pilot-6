@@ -3,6 +3,8 @@ id: 87e27b2c-0de7-469c-9ac9-7ed0d5c59ad9
 title: "Alternative løsninger"
 linkTitle: "Alternative løsninger"
 weight: 10
+lastmod: 2026-11-21T00:22:24+01:00
+last_editor: Erik Hagen
 
 ---
 

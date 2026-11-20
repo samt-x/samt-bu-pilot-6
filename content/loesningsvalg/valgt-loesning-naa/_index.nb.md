@@ -5,7 +5,7 @@ linkTitle: "Valgt løsning nå"
 weight: 30
 aliases:
   - /pilotering/pilot-6/detaljering-av-valgt-loesning/
-lastmod: 2026-11-20T23:10:23+01:00
+lastmod: 2026-11-21T00:22:24+01:00
 last_editor: Erik Hagen
 
 ---

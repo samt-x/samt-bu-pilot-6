@@ -3,6 +3,8 @@ id: 44157821-2053-4b4e-97dc-ea653fa5ef06
 title: "Informasjonsarkitektur"
 linkTitle: "Informasjonsarkitektur"
 weight: 20
+lastmod: 2026-11-21T00:22:24+01:00
+last_editor: Erik Hagen
 
 ---
 

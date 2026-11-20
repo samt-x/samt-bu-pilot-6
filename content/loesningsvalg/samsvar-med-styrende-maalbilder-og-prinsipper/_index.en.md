@@ -3,6 +3,8 @@ id: c9a56c86-6560-4aaa-8ef5-ae7c1b00df84
 title: "Alignment with governing target pictures and principles"
 linkTitle: "Alignment with target pictures and principles"
 weight: 20
+lastmod: 2026-11-21T00:22:24+01:00
+last_editor: Erik Hagen
 
 ---
 

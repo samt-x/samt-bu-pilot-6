@@ -3,6 +3,8 @@ id: bedbc2a6-8bee-4cd0-b07b-061464259283
 title: "Actors and information flow"
 linkTitle: "Actors and information flow"
 weight: 10
+lastmod: 2026-11-21T00:22:24+01:00
+last_editor: Erik Hagen
 
 ---
 

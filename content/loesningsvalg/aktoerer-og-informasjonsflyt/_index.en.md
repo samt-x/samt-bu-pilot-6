@@ -5,7 +5,7 @@ linkTitle: "Actors and information flow"
 weight: 50
 aliases:
   - /pilotering/pilot-6/aktoerer-og-informasjonsflyt/
-lastmod: 2026-11-20T23:10:23+01:00
+lastmod: 2026-11-21T00:22:24+01:00
 last_editor: Erik Hagen
 
 ---
