@@ -12,7 +12,7 @@ last_editor: Erik Hagen
 
 Rollene og aktørene i pilot 6, noen personas, og behovene brutt ned i brukerhistorier på formen «Som … ønsker jeg … slik at …». Brukerhistoriene er grunnlaget for å prioritere hva piloten skal vise, og for å teste løsningen.
 
-Alt på siden er et førsteutkast. Rollene står her inntil det finnes et felles rolleregister på tvers av casene. Da bør de flyttes dit, og denne siden lenke til registeret.
+Alt på siden er et førsteutkast. Rollene står her inntil det finnes et felles rolleregister på tvers av casene. Da bør de flyttes dit, og denne siden lenke til registeret (se [samt-bu-architecture#38](https://github.com/samt-x/samt-bu-architecture/issues/38)).
 
 ## Roller og aktører
 

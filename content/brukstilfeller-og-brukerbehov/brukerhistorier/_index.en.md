@@ -12,7 +12,7 @@ last_editor: Erik Hagen
 
 The roles and actors in pilot 6, some personas, and the needs broken down into user stories in the form "As a … I want … so that …". The user stories are the basis for prioritising what the pilot should show, and for testing the solution.
 
-Everything on this page is a first draft. The roles are kept here until there is a common role register across the cases. They should then be moved there, and this page should link to the register.
+Everything on this page is a first draft. The roles are kept here until there is a common role register across the cases. They should then be moved there, and this page should link to the register (see [samt-bu-architecture#38](https://github.com/samt-x/samt-bu-architecture/issues/38)).
 
 ## Roles and actors
 
