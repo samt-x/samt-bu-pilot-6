@@ -12,14 +12,6 @@ last_editor: Erik Hagen
 
 Which use cases the pilot covers, the needs parents and guardians have for information about the pupil's academic progress, and how they want to access it. The needs are broken down into [user stories](/en/pilotering/pilot-6/brukstilfeller-og-brukerbehov/brukerhistorier/). The chapter builds on the case description [6. Centralised access to data parents need](/en/behov/use-cases/06-sentralisert-datatilgang/) and on the dream journey, as described in [About pilot 6](/en/pilotering/pilot-6/om-pilot-6/).
 
-## The case from the user's side
-
-Amir is in year 7, and his parents want to follow how he is progressing academically and whether he gets the follow-up he needs. The information already exists: results from tests and assessments, evaluations, absence and other information about his schooling. But it is held in different systems and by different actors. The parents have to know where to look, log in several places and put the picture together themselves.
-
-Amir should also have access to relevant information himself, but it is not a given that parents and child should see exactly the same thing at all times. This matters for the rulebook: rights management, the pupil's right to participate and how access changes with age.
-
-Compared with case 6, the story also includes absence, and it makes clear that parents and child do not necessarily see the same thing.
-
 ## From scattered sources to one combined overview
 
 ![Today parents must search school administration systems (OAS), the municipal archive and Udir themselves. The desired situation is one combined overview over time, retrieved from the same sources, and a pupil mode for the pupil. Scope: the school sector, pupils under 18. To be clarified: legal issues, the voluntary sector and the vendor market. Benefit owner: the parents, nearest public owner is Digdir.](fra-spredte-kilder-til-samlet-oversikt-en.svg)
