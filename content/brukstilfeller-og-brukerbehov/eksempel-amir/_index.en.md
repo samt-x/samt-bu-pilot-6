@@ -3,6 +3,8 @@ id: 636f3429-6a5f-4c4c-b7fe-1170a7b1cbd9
 title: "Example: Amir and his parents"
 linkTitle: "Example: Amir and his parents"
 weight: 20
+lastmod: 2026-11-21T02:31:00+01:00
+last_editor: Erik Hagen
 
 ---
 
